@@ -69,10 +69,15 @@ Ein angenehmes soziales Klima ist uns in unseren Communities wichtig. Bei Freifu
 
  Wir sind uns bewusst, dass in unseren Communities auch Machtfragen auftauchen: Macht, Machtzuschreibung und Machtausübung werden sowohl durch zentralistische soziale, als auch durch zentralistische technologische Strukturen begünstigt. Dies ist einer der Gründe, weshalb wir nach dem Prinzip der Dezentralität arbeiten. Auch mit dem ungleich verteilten technischen Fachwissen können Machtfragen verbunden sein. Uns ist es wichtig, verantwortungsvoll damit umzugehen, Machtverhältnisse zu thematisieren und - wo möglich – abzubauen. Das möchten wir durch größtmöglichen Wissenstransfer und dezentrale Strukturen erreichen.  
 
-### Umgang mit Informationen und Wissen
+### Umgang mit Informationen und Wissen 
 
-Wir wollen lernen, Netze zu bauen und zu betreiben, statt sie von "Expert*innen" hingestellt und gewartet zu bekommen. Wir nennen das Selbstmachnetz. Wir wollen Menschen befähigen und ermutigen, sich aktiv in die Gestaltung von Infrastruktur einzubringen und die Auswirkungen von Technik auf die Gesellschaft zu erforschen und zu gestalten. Wir fördern das Verständnis von Netzwerken und Netzwerktechnik ("Network/Code Literacy"), deshalb geben wir unser Wissen jederzeit weiter und machen nicht nur Code verfügbar. Wir experimentieren und forschen mit unserer Infrastruktur, deshalb gibt es keinen Anspruch auf permanente Verfügbarkeit.
-Selbstmachnetze zu entwickeln ist ein Prozess. Uns ist bewusst, dass wir in diesem Prozess nicht alle Ziele immer gleichermaßen erreichen. Daher hinterfragen wir uns regelmäßig kritisch, ohne uns dabei anzufeinden. Das Lernen und Verbessern sozialer und technologischer Strukturen steht für uns im Vordergrund.
+Wir wollen lernen, Netze zu bauen und zu betreiben, statt sie von "Expert*innen"(besseres Wort) hingestellt und gewartet zu bekommen. Wir nennen das Selbstmachnetz:  
+
+*   Wir wollen Menschen befähigen und ermutigen, sich aktiv in die Gestaltung von Infrastruktur einzubringen und die Auswirkungen von Technik auf die Gesellschaft zu erforschen und zu gestalten.
+*   Wir fördern das Verständnis von Netzwerken und Netzwerktechnik ("Network/Code Literacy"), deshalb geben wir unser Wissen weiter und machen nicht nur Code verfügbar.
+*   Wir experimentieren und forschen mit unserer Infrastruktur, deshalb gibt es keinen Anspruch auf permanente Verfügbarkeit.
+
+Selbstmachnetze zu entwickeln ist ein Prozess. Uns ist bewusst, dass wir in diesem Prozess nicht alle Ziele immer gleichermaßen erreichen. Daher hinterfragen wir uns regelmäßig kritisch, <s>ohne uns dabei anzufeinden</s> (positiv umformulieren). Das Lernen und Verbessern sozialer und technologischer Strukturen steht für uns im Vordergrund.  
 
 ### Organisationsformen
 
