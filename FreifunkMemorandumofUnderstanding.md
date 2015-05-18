@@ -24,8 +24,7 @@ Als Freifunker*innen beteiligen wir uns am politischen Prozess, um die rechtlich
 
 ## Prinzipien von Freifunk
 
-Es ist unser Anliegen, das soziale Community-Building und die technische Umsetzung freier Netze in den Communities nach ähnlichen Prinzipien zu gestalten: dezentral, mit möglichst wenigen/flachen Hierarchien und dennoch abgesprochen.
-Viele unserer Prinzipien wurden bereits an anderen Stellen formuliert. Als Freifunker*innen bekennen wir uns zu den folgenden bereits existierenden Dokumenten:
+Es ist unser Anliegen, das soziale Community-Building und die technische Umsetzung freier Netze in den Communities nach ähnlichen Prinzipien zu gestalten: dezentral, mit möglichst wenigen/flachen Hierarchien, sowie als integrierender, permanenter Austauschprozess. Viele unserer Prinzipien wurden bereits an anderen Stellen formuliert. Als Freifunker*innen bekennen wir uns zu den folgenden bereits existierenden Dokumenten:
 
 * Pico Peering Agreement
 * Unsere Vision:
@@ -40,7 +39,7 @@ Viele unserer Prinzipien wurden bereits an anderen Stellen formuliert. Als Freif
 
 ### Technische Prinzipien
 
-Das Pico Peering Agreement ist die Grundlage unserer Netzwerke. Folgende Grundsätze machen für uns ein freies Netz aus:
+Das Pico Peering Agreement ist die Grundlage unserer Netzwerke. Folgende Grundsätze machen für uns zusätzlich ein freies Netz aus:  
 
 * Unsere Knoten bilden untereinander ein Maschennetzwerk. Mit Freifunk-Netz meinen wir dieses vermaschte Netz, das zwischen den Routern entsteht. Es endet dort, wo das Internet beginnt, also dort, wo ein Router den Datenverkehr ins Internet leitet. Und es endet dort, wo das private Heimnetz beginnt.
 * Wir gestalten unsere Netze offen und öffentlich: Alle können eigene Knoten betreiben und dadurch das Netz erweitern.
