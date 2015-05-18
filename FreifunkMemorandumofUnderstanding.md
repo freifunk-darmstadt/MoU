@@ -26,16 +26,49 @@ Als Freifunker*innen beteiligen wir uns am politischen Prozess, um die rechtlich
 
 Es ist unser Anliegen, das soziale Community-Building und die technische Umsetzung freier Netze in den Communities nach ähnlichen Prinzipien zu gestalten: dezentral, mit möglichst wenigen/flachen Hierarchien, sowie als integrierender, permanenter Austauschprozess. Viele unserer Prinzipien wurden bereits an anderen Stellen formuliert. Als Freifunker*innen bekennen wir uns zu den folgenden bereits existierenden Dokumenten:
 
-* Pico Peering Agreement
-* Unsere Vision:
-* Free Culture Definition
-* Community Wireless Definition
-* free networks definition
-* Fernmeldegeheimnis (GG Art. 10,1)
-* Prinzip der Datensparsamkeit und Datenvermeidung (BDSG § 3a
-* Wir speichern nicht!
-* Die Hackerethik des Chaos Computer Clubs (CCC) ist auf freie Netze übertragbar.
-* Die Unvereinbarkeitserklärung des CCC “Farbe bekennen gegen rechts”  , v.a. der Abschnitt “Die Erklärung”
+	* Pico Peering Agreement http://www.picopeer.net/PPA-de.html
+		* Freier Transit
+		* Offene Kommunikation
+		* Keine Betriebsgarantie / Best-Effort Bereitstellung
+		* Acceptable Use Policy optional
+	* Unsere Vision: http://freifunk.net/worum-geht-es/vision/
+		* Selbstverständnis
+			* öffentlich und anonym zugänglich
+			* nicht kommerziell und unzensiert
+			* im Besitz einer Gemeinschaft und dezentral organisiert
+		* Ziele
+			* Aufklärung und Sensibilisierung zum Thema Kommunikations- und Informationsfreiheit
+			* Verminderung der digitalen Spaltung
+			* Ungehinderte Verbreitung von Wissen und Ressourcen
+			* Menschen dazu befähigen, eigene Netze aufzubauen und zu betreiben
+			* Vorhandene und neue Sozialstrukturen fördern und vernetzen
+	* Free Culture Definition http://en.wikipedia.org/wiki/Free_Culture_(book)#Introduction_and_Identification_of_Cultural_Shift
+		* not as “free” as in “Free Beer”, but “free” as in “free speech”.
+		* "In a free culture, innovators are able to create — and build upon past creations — without the worry of infringing upon intellectual property rights", as opposed to a permissions culture.
+		* "[The Internet] challenges the traditional innovator and seeks to break free of any permissions or strict regulations.[12] The internet can provide a vastly more vibrant and competitive innovation culture [...]". In this sense, Free Networks fulfill this property of the Internet.
+	* Community Wireless Definition http://wiki.freifunk.net/WirelessCommons
+	* free networks definition http://freenetworks.org/
+// Rechtsquellen sollten in einen Anhang. Hier reicht das Nennen einer allgemeinen Formulierung wie: Als Freifunker agieren wir Rechtskonform
+	* Fernmeldegeheimnis (GG Art. 10,1) http://www.gesetze-im-internet.de/gg/art_10.html
+		* „Das Briefgeheimnis sowie das Post- und Fernmeldegeheimnis sind unverletzlich.“
+	* Prinzip der Datensparsamkeit und Datenvermeidung (BDSG § 3a) http://www.gesetze-im-internet.de/bdsg_1990/__3a.html
+		* „Die Erhebung, Verarbeitung und Nutzung personenbezogener Daten und die Auswahl und Gestaltung von Datenverarbeitungssystemen sind an dem Ziel auszurichten, so wenig personenbezogene Daten wie möglich zu erheben, zu verarbeiten oder zu nutzen. Insbesondere sind personenbezogene Daten zu anonymisieren oder zu pseudonymisieren, soweit dies nach dem Verwendungszweck möglich ist und keinen im Verhältnis zu dem angestrebten Schutzzweck unverhältnismäßigen Aufwand erfordert.“
+	* Wir speichern nicht! http://wirspeichernnicht.de/
+		* „Wir speichern nicht!" ist ein Netzwerk von Webseiten, deren Benutzung nicht personenbezogen nachvollzogen werden kann.
+	* Die Hackerethik des Chaos Computer Clubs (CCC) ist auf freie Netze übertragbar. http://ccc.de/de/hackerethik
+		* Der Zugang zu Computern und allem, was einem zeigen kann, wie diese Welt funktioniert, sollte unbegrenzt und vollständig sein.
+		* Alle Informationen müssen frei sein.
+		* Mißtraue Autoritäten – fördere Dezentralisierung.
+		* Beurteile einen Hacker nach dem, was er tut, und nicht nach üblichen Kriterien wie Aussehen, Alter, Herkunft, Spezies, Geschlecht oder gesellschaftliche Stellung.
+		* Man kann mit einem Computer Kunst und Schönheit schaffen.
+		* Computer können dein Leben zum Besseren verändern.
+		* Mülle nicht in den Daten anderer Leute.
+		* Öffentliche Daten nützen, private Daten schützen.
+	* Die Unvereinbarkeitserklärung des CCC “Farbe bekennen gegen rechts” , v.a. der Abschnitt “Die Erklärung”) http://www.ccc.de/updates/2005/unvereinbarkeitserklaerung
+		* Wir sind eine galaktische Gemeinschaft von Lebewesen, unabhängig von Alter, Geschlecht und Abstammung sowie gesellschaftlicher Stellung, offen für alle mit neuen Ideen. Wer jedoch mit Ideen von Rassismus, Ausgrenzung und damit verbundener struktureller und körperlicher Gewalt auf uns zukommt, hat sich vom Dialog verabschiedet und ist jenseits der Akzeptanzgrenze. Wer es darauf anlegt, das Zusammenleben in dieser Gesellschaft zu zerstören und auf eine alternative Gesellschaft hinarbeitet, deren Grundsätze auf Chauvinismus und Nationalismus beruht, arbeitet gegen die moralischen Grundsätze, die uns als Club verbinden.
+
+
+
 
 ### Technische Prinzipien
 
