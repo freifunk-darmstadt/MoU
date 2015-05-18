@@ -69,7 +69,7 @@ Ein angenehmes soziales Klima ist uns in unseren Communities wichtig. Bei Freifu
 
  Wir sind uns bewusst, dass in unseren Communities auch Machtfragen auftauchen: Macht, Machtzuschreibung und Machtausübung werden sowohl durch zentralistische soziale, als auch durch zentralistische technologische Strukturen begünstigt. Dies ist einer der Gründe, weshalb wir nach dem Prinzip der Dezentralität arbeiten. Auch mit dem ungleich verteilten technischen Fachwissen können Machtfragen verbunden sein. Uns ist es wichtig, verantwortungsvoll damit umzugehen, Machtverhältnisse zu thematisieren und - wo möglich – abzubauen. Das möchten wir durch größtmöglichen Wissenstransfer und dezentrale Strukturen erreichen.  
 
-### Umgang mit Informationen und Wissen 
+### Umgang mit Informationen und Wissen
 
 Wir wollen lernen, Netze zu bauen und zu betreiben, statt sie von "Expert*innen"(besseres Wort) hingestellt und gewartet zu bekommen. Wir nennen das Selbstmachnetz:  
 
@@ -79,7 +79,6 @@ Wir wollen lernen, Netze zu bauen und zu betreiben, statt sie von "Expert*innen"
 
 Selbstmachnetze zu entwickeln ist ein Prozess. Uns ist bewusst, dass wir in diesem Prozess nicht alle Ziele immer gleichermaßen erreichen. Daher hinterfragen wir uns regelmäßig kritisch, <s>ohne uns dabei anzufeinden</s> (positiv umformulieren). Das Lernen und Verbessern sozialer und technologischer Strukturen steht für uns im Vordergrund.  
 
-### Organisationsformen
+### Organisationsformen 
 
-Eine Freifunk-Community ist im einfachsten Fall ein loser Zusammenschluss mehrerer Individuen. Lokale Vereine können die Gruppe unterstützen, z.B. beim Spendensammeln oder Abschließen von Verträgen. Die Gründung eines eigenen Vereins ist für Freifunk keine Voraussetzung. Veränderungen werden von allen Aktiven gemeinschaftlich beschlossen, nicht nur von Mitgliedern eines Trägers oder Vereins.
-Für die wenigen community-übergreifenden Entscheidungen gründen wir den Beirat "Freifunk Advisory Council", eine Vertretung von Community-Mitgliedern aus den unterschiedlichen Bundesländern. Dieses Gremium kann bei Konflikten zwischen Communities hinzugezogen werden.
+Eine Freifunk-Community ist im einfachsten Fall ein zwangloser, lokaler Zusammenschluss mehrerer Individuen. Lokale Vereine können die Gruppe unterstützen, z.B. beim Spendensammeln oder Abschließen von Verträgen. Die Gründung eines eigenen Vereins ist für Freifunk keine Voraussetzung. Veränderungen werden von allen Aktiven gemeinschaftlich beschlossen, nicht nur von Mitgliedern eines Trägers oder Vereins. Für die wenigen community-übergreifenden Entscheidungen gründen wir den Beirat "Freifunk Advisory Council", eine Vertretung von Community-Mitgliedern aus den unterschiedlichen Bundesländern. Dieses Gremium kann bei Konflikten zwischen Communities hinzugezogen werden.
