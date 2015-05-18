@@ -41,14 +41,14 @@ Es ist unser Anliegen, das soziale Community-Building und die technische Umsetzu
 
 Das Pico Peering Agreement ist die Grundlage unserer Netzwerke. Folgende Grundsätze machen für uns zusätzlich ein freies Netz aus:  
 
-* Unsere Knoten bilden untereinander ein Maschennetzwerk. Mit Freifunk-Netz meinen wir dieses vermaschte Netz, das zwischen den Routern entsteht. Es endet dort, wo das Internet beginnt, also dort, wo ein Router den Datenverkehr ins Internet leitet. Und es endet dort, wo das private Heimnetz beginnt.
-* Wir gestalten unsere Netze offen und öffentlich: Alle können eigene Knoten betreiben und dadurch das Netz erweitern.
-* Unser Netz ist anonym zugänglich, weder Nutzer*innen noch Knotenbetreiber*innen sollen sich registrieren oder anmelden um mitzumachen.
-* Unser Netz ist nicht kommerziell.
-* In unserem Netz wird nicht zensiert.
-* Wir halten uns an das Fernmeldegeheimnis.
-* Datenschutz und Datensparsamkeit: Wir speichern weder Verbindungs- noch Bestandsdaten. Wir speichern keine personenbezogenen Daten. Die Angabe von Emailadressen zur Kontaktaufnahme und Geokoordinaten zur Darstellung auf der Karte ist freiwillig.
-* Die Nutzer*innen sind selbst für Ende-zu-Ende-Verschlüsselung ihres Traffics und für Anonymisierung verantwortlich.
+*   Unsere Knoten bilden untereinander ein Maschennetzwerk. Mit Freifunk-Netz meinen wir dieses vermaschte Netz, das zwischen den Routern entsteht. Es endet dort, wo das Internet beginnt, also dort, wo ein Router den Datenverkehr ins Internet leitet. Und es endet dort, wo das private Heimnetz beginnt.
+*   Wir gestalten unsere Netze offen und öffentlich: Alle können eigene Knoten betreiben und dadurch das Netz erweitern.
+*   Unser Netz ist anonym zugänglich. Weder Nutzerinnen noch Knotenbetreiberinnen müssen sich registrieren oder anmelden um mitzumachen.
+*   Datenschutz und Datensparsamkeit: Wir speichern weder Verbindungs- noch Bestandsdaten. Wir speichern keine personenbezogenen Daten. Die Angabe von Emailadressen zur Kontaktaufnahme und Geokoordinaten zur Darstellung auf der Karte ist freiwillig.
+*   Unser Netz wird nicht kommerziell betrieben und ausgewertet.
+*   In unserem Netz wird nicht zensiert.
+*   Wir halten uns an das Fernmeldegeheimnis.
+*   Benutzer*innen sind sich dessen bewusst, dass jede übertragene Information öffentlich sichtbar ist, und deswegen selbst für Ende-zu-Ende-Verschlüsselung ihres Traffics und für Anonymisierung verantwortlich sind.
 
 Wir achten bei der Gestaltung unserer Netze auf Dezentralität. Deshalb ist es nicht in unserem Sinne, dass eine kleine  Admingruppe oder Einzelpersonen per Fernzugriff die Kontrolle über ein ganzes (Teil-)Netz haben. Die Knotenbetreiber*innen haben die Wahl, sich für Fernwartung zu entscheiden. Eingriffe in die Knoten, z.B. Firmwareupdates oder andere Fernwartungsarbeiten, müssen immer mit dem ausdrücklichen Einverständnis der jeweiligen Betreibenden geschehen. Knotenbetreiber*innen können sich ferner entscheiden, ob sie auch Internetzugang  bereitstellen wollen, sei es für die Teilnehmenden im Meshnetz, sei es für die Öffentlichkeit. Es ist uns dabei wichtig, dass Freifunk nicht in erster Linie als “Provider für kostenlosen Internetzugang” wahrgenommen  wird. Entscheidungen über Releases werden in den lokalen Communities gemeinschaftlich getroffen.
 Die Firmware für unsere Knoten basiert auf freier Software. Weiterentwicklungen veröffentlichen wir ebenso als FLOSS. Durch eine möglichst gute Dokumentation sollen Betreiber*innen in die Lage versetzt werden, die Firmware selbst weiterzuentwickeln oder Anregungen zur Verbesserung beizusteuern. Die Offenheit schafft Vertrauen in die Software.
